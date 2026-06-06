@@ -1,0 +1,6 @@
+{
+  "name": "LingoAI - Học Phát Âm Trung-Nhật-Hàn",
+  "description": "Ứng dụng học phát âm tiếng Trung, Nhật, Hàn đột phá bằng AI. Đánh giá phát âm chuẩn xác và tạo lộ trình cá nhân hóa.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
